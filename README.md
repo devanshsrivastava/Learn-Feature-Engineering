@@ -9,3 +9,10 @@ Feature engineering is an important area in the field of machine learning and da
 4) Dimensionality reduction using principal component analysis (a.k.a. PCA)
 5) Handling missing values 
 6) Scaling
+
+### Topics to be covered
+
+* Outlier Introduction
+* Percentile
+* Remove Outliers from simple dataset
+* Remove outliers from complex dataset
