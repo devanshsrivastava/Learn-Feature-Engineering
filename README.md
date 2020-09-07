@@ -14,5 +14,6 @@ Feature engineering is an important area in the field of machine learning and da
 
 * Outlier Introduction
 * Percentile
+* Use of Standard Division and Z-Score to remove outliers
 * Remove Outliers from simple dataset
 * Remove outliers from complex dataset
